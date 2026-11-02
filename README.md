@@ -1,1 +1,1 @@
-"Added project overview section"
+Campus Connect is a web-based campus event finder project designed to help students, faculty, and organizations discover, organize, and manage events within their school community. Our goal is to make it easier for everyone to stay updated on school activities and never miss important campus events.
