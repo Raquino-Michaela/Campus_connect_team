@@ -17,3 +17,9 @@ Campus Connect is a web-based campus event finder project designed to help stude
 6. Wait for the registration confirmation.
 7. Go to My Tickets to view your registered events.
 8. Attend the event on the scheduled date and time.
+
+## Team Members
+- Member 1: Michaela Angel Raquino – Project Overview
+- Member 2: Juztine Abijah Reyes – Features
+- Member 3: Kathlyn Joy Luces – How to Use
+- Member 4: Orville Luigi Sonajo – Team Members
